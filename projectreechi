@@ -1,0 +1,7 @@
+/projectreechi
+|-- /public
+|   |-- index.html
+|   |-- unlock.html
+|   |-- style.css
+|-- server.js
+|-- package.json
