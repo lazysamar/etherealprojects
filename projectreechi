@@ -1,7 +1,3 @@
-/projectreechi
-|-- /public
-|   |-- index.html
-|   |-- unlock.html
-|   |-- style.css
-|-- server.js
-|-- package.json
+mkdir future-self-app
+cd future-self-app
+npm init -y
